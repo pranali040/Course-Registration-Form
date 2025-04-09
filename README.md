@@ -22,21 +22,21 @@ A simple and interactive web-based form that allows students to enroll in variou
 
 ## How to Use
 1. Clone the Repository
--git clone  
--cd student-registration
+- git clone https://github.com/pranali040/Course-Registration-Form.git 
+- cd student-registration
 
 2. Open with Live Server (Recommended)
--Make sure you do not open via file:///, which may block localStorage in some browsers.
--Use VS Code with the Live Server extension: Right-click index.html → Open with Live Server
+- Make sure you do not open via file:///, which may block localStorage in some browsers.
+- Use VS Code with the Live Server extension: Right-click index.html → Open with Live Server
 
 3. Register a Student
--Fill the form on index.html
--Click "Enroll to Course"
--Success alert will confirm registration
+- Fill the form on index.html
+- Click "Enroll to Course"
+- Success alert will confirm registration
 
 4. View Registered Students
--Click the "View Registered Students" link
--students.html will display all students in a table
+- Click the "View Registered Students" link
+- students.html will display all students in a table
 
 ## 🧪 Validation Rules
 1. Name: Must contain only letters and spaces.
