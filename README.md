@@ -27,8 +27,7 @@ cd student-registration
 
 2. Open with Live Server (Recommended)
 Make sure you do not open via file:///, which may block localStorage in some browsers.
-Use VS Code with the Live Server extension:
-- Right-click index.html → Open with Live Server
+Use VS Code with the Live Server extension: Right-click index.html → Open with Live Server
 
 3. Register a Student
 Fill the form on index.html
@@ -40,15 +39,15 @@ Click the "View Registered Students" link
 students.html will display all students in a table
 
 ## 🧪 Validation Rules
-Name: Must contain only letters and spaces.
-Email: Must follow standard email format.
-Age: Automatically calculated and must be non-negative.
-Course Fee: Automatically populated from course selection.
+1. Name: Must contain only letters and spaces.
+2. Email: Must follow standard email format.
+3. Age: Automatically calculated and must be non-negative.
+4. Course Fee: Automatically populated from course selection.
 
 ## 📌 Notes
-Age is calculated dynamically using the birthdate
-Fee updates automatically based on course selection
-Entries persist unless cleared from browser storage
+- Age is calculated dynamically using the birthdate
+- Fee updates automatically based on course selection
+- Entries persist unless cleared from browser storage
 
 ## 🧹 To Clear All Student Data
 Open browser DevTools → Application tab → Local Storage → Right-click → Clear
