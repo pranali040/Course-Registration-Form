@@ -38,6 +38,16 @@ A simple and interactive web-based form that allows students to enroll in variou
 - Click the "View Registered Students" link
 - students.html will display all students in a table
 
+## Screenshot
+
+1. Course Registration Form - Student Input Page
+   
+![image](https://github.com/user-attachments/assets/db3dc9b3-9c00-46b8-8780-a0c88a885a4d)
+
+2. Registered Student Displayed in Table
+   
+![image](https://github.com/user-attachments/assets/0ce2071a-9139-4e8b-a87a-9687bfda125d)
+
 ## 🧪 Validation Rules
 1. Name: Must contain only letters and spaces.
 2. Email: Must follow standard email format.
